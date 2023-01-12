@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 3 - Adicione palavras chaves no arquivo ``query.txt`` (Separadas por quebra de linha)
 
-4 - Execute o Scritp
+4 - Execute o Script
 
 ```sh
 python3 main.py
